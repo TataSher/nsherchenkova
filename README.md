@@ -6,7 +6,7 @@
    <a href="https://www.linkedin.com/in/natalia-sherchenkova"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
  </p>
  <div id="pattern">
-<img src="/Resouces/pattern.png" style="repeat-x; width: 100%;"/> 
+<img src="./Resouces/pattern.png" style="background-repeat:repeat-x;width: 200px;"/> 
 </div>
  </p>
 
